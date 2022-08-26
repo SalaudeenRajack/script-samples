@@ -113,6 +113,7 @@ write-host $("End time " + (Get-Date))
 [!INCLUDE [More about CLI for Microsoft 365](../../docfx/includes/MORE-CLIM365.md)]
 
 ***
+PnP PowerShell Script Source: https://www.sharepointdiary.com/2018/05/sharepoint-online-delete-all-files-in-document-library-using-powershell.html#h-pnp-powershell-to-delete-all-files-in-sharepoint-online-document-library
 
 ## Contributors
 
